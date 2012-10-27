@@ -2,7 +2,7 @@ Ext.onReady(function() {
 	Ext.QuickTips.init();
 	var login = Ext.create('Ext.FormPanel',{
 		labelWidth  : 50,
-		url: 'php',
+		url: '',
 		// frame: true,
 		defaultType: 'textfield',
 		monitorValid: true,
