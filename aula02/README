@@ -1,0 +1,24 @@
+Dojo 1
+Desenvolver um formulario de ExtJs para o suporte tecnico.
+
+Campos:
+nome
+email
+senha
+data de abertura
+data da agenda
+hora da agenda
+data de fechamento
+hora de fechamento
+assunto
+descrição do problema
+foto
+Bontoes: gravar e cancelar
+
+Dojo 2
+Montar um grid em extjs, que contenha 6 linhas de dados em um array com os campos:
+produto, valor do produto, quantidade de estoque, data de entrada
+- produto não pode ser redimensionada ou ocultada
+- estoque deve aparecer verde quando tiver acima de 100 items e vermelho se abaixo.
+--------------------
+PROJETO
