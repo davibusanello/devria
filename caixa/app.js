@@ -22,13 +22,13 @@ Ext.require([
 Ext.require(['Ext.Window', 'Ext.layout.container.Fit', 'Ext.fx.target.Sprite']);
   
 Ext.application({    
-    name: 'EIA',
+    name: 'Caixa',
     appFolder: 'app',
     controllers: [
      'Usuario', 'Categoria', 'Agenda', 'GraficoAgenda'
     ],    
     autoCreateViewport: true,
     launch: function() {
-        EIA.app = this;
+        Caixa.app = this;
     }
 });
