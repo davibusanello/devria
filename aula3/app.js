@@ -9,6 +9,7 @@ Ext.onReady(function() {
 		items: [{
 			fieldLabel: 'E-mail',
 			name: 'email',
+			vtype: 'email',
 			blanText : 'Por favor, informe o seu email',
 			width :250,
 			allowBlank: false
